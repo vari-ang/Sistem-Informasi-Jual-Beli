@@ -1,0 +1,105 @@
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\Week2\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Vari\Week2\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\Week2\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Vari\Week2\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Vari\Week2\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\Week3\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Vari\Week3\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\Week3\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Vari\Week3\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Vari\Week3\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\Week3\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\Week4\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Vari\Week4\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\Week4\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Vari\Week4\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\Week4\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Vari\160717023_Week8\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week8\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week8\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week8\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week8\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Vari\160717023_Week8\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week10\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week10\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week10\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Vari\160717023_Week10\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week10\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Vari\project-pbd\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Vari\project-pbd\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\project-pbd\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Vari\project-pbd\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\project-pbd\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Vari\project-pbd\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week12\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week12\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week12\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Vari\160717023_Week12\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Vari\160717023_Week12\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week12\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\PenjualanPembelian\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\PenjualanPembelian\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\PenjualanPembelian\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\PenjualanPembelian\obj\Debug\JualBeli_LIB.csprojResolveAssemblyReference.cache

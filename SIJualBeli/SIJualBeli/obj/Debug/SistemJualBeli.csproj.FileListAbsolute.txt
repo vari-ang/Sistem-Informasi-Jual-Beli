@@ -1,0 +1,545 @@
+C:\Vari\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week2\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\Week2\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\Week2\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\Week2\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\Week2\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Vari\Week2\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Vari\Week2\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Vari\Week2\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\Week3\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\Week3\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\Week3\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Vari\Week3\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Vari\Week3\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\Week3\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week4\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Vari\Week4\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\Week4\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\Week4\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\Week4\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Vari\Week4\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Vari\Week4\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\Week4\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\160717023_Week8\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week9\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week10\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week11\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaJual.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaBeli.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaBeli.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaBeli.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaBeli.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaJual.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\160717023_Week12\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaBeli.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaBeli.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\Project_PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaBeli.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaBeli.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahNotaJual.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SistemJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormTambahSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUbahSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormHapusSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLaporanBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLaporanKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLaporanPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLaporanPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLaporanSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLaporanNotaBeli.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\project-pbd\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormLaporanNotaJual.resources

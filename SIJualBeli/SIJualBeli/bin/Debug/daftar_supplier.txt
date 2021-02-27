@@ -1,0 +1,23 @@
+Laporan Per Tanggal : 05/12/2018
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+
+Kode Supplier : 1
+Nama : New Orleans Company
+Alamat : P.O. Box 78934
+==================================================
+Kode Supplier : 2
+Nama : Cooperativa the Spain
+Alamat : MH. Thamrin 55
+==================================================
+Kode Supplier : 3
+Nama : UD. Subur Selalu
+Alamat : Raya Jemursari 123
+==================================================
+Kode Supplier : 4
+Nama : Leka Trading
+Alamat : 22 Jump Street
+==================================================

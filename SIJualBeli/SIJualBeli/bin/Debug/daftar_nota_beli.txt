@@ -1,0 +1,116 @@
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+No.Nota : 20181202001
+Tanggal : 02/12/2018 6:52:49
+
+Supplier : New Orleans Company
+Alamat : P.O. Box 78934
+
+Kasir : root
+==================================================
+Baju Sekolah SD               25 120.000 3.000.000
+==================================================
+TOTAL : 3.000.000
+==================================================
+Terima Kasih Atas Kunjungan Anda
+
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+No.Nota : 20181129002
+Tanggal : 29/11/2018 8:43:45
+
+Supplier : New Orleans Company
+Alamat : P.O. Box 78934
+
+Kasir : root
+==================================================
+Pocari Sweat                  4   12.000    48.000
+==================================================
+TOTAL : 48.000
+==================================================
+Terima Kasih Atas Kunjungan Anda
+
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+No.Nota : 20181129001
+Tanggal : 29/11/2018 8:37:28
+
+Supplier : New Orleans Company
+Alamat : P.O. Box 78934
+
+Kasir : root
+==================================================
+Pocari Sweat                  3   12.000    36.000
+==================================================
+TOTAL : 36.000
+==================================================
+Terima Kasih Atas Kunjungan Anda
+
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+No.Nota : 20181126001
+Tanggal : 26/11/2018 7:08:21
+
+Supplier : New Orleans Company
+Alamat : P.O. Box 78934
+
+Kasir : root
+==================================================
+Kaldu Ayam Magic              10  30.000   300.000
+==================================================
+TOTAL : 300.000
+==================================================
+Terima Kasih Atas Kunjungan Anda
+
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+No.Nota : 20171105002
+Tanggal : 05/11/2017 12:17:08
+
+Supplier : New Orleans Company
+Alamat : P.O. Box 78934
+
+Kasir : Andrews
+==================================================
+Pocari Sweat                  10  60.000   600.000
+Kaldu Ayam Magic              20  25.000   500.000
+==================================================
+TOTAL : 1.100.000
+==================================================
+Terima Kasih Atas Kunjungan Anda
+
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+No.Nota : 20171105001
+Tanggal : 05/11/2017 11:15:08
+
+Supplier : Cooperativa the Spain
+Alamat : MH. Thamrin 55
+
+Kasir : Steven
+==================================================
+Pocari Sweat                  12  50.000   600.000
+Baju Sekolah SD               24 100.000 2.400.000
+==================================================
+TOTAL : 3.000.000
+==================================================
+Terima Kasih Atas Kunjungan Anda
+

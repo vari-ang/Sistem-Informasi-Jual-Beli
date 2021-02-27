@@ -1,0 +1,67 @@
+Laporan Per Tanggal : 05/12/2018
+
+TOKO MAJU MAKMUR UNTUNG SELALU
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+
+Kode Barang : 01001
+Barcode : 8997035563414
+Nama : Pocari Sweat
+Harga Jual : 12000
+Stok : 104
+==================================================
+Kode Barang : 01002
+Barcode : 8997035563424
+Nama : Orange Squash
+Harga Jual : 5000
+Stok : 57
+==================================================
+Kode Barang : 01003
+Barcode : 8997035564524
+Nama : My Cola
+Harga Jual : 10000
+Stok : 75
+==================================================
+Kode Barang : 01004
+Barcode : 8990234123567
+Nama : Choco Avocado Coffee
+Harga Jual : 20000
+Stok : 8
+==================================================
+Kode Barang : 01005
+Barcode : 0000000000000
+Nama : Fanta
+Harga Jual : 3000
+Stok : 207
+==================================================
+Kode Barang : 02001
+Barcode : 5411026164138
+Nama : Bumbu Ayam Kalasan Royku
+Harga Jual : 15000
+Stok : 99
+==================================================
+Kode Barang : 02002
+Barcode : 5421031164128
+Nama : Kaldu Ayam Magic
+Harga Jual : 30000
+Stok : 6
+==================================================
+Kode Barang : 03001
+Barcode : 0421032464101
+Nama : T-Shirt Pelangi Lengan Pendek
+Harga Jual : 80000
+Stok : 27
+==================================================
+Kode Barang : 03002
+Barcode : 0421035564301
+Nama : Baju Sekolah SD
+Harga Jual : 120000
+Stok : 30
+==================================================
+Kode Barang : 04001
+Barcode : 5421031164368
+Nama : Keju Cheddar Healthy Choice
+Harga Jual : 67000
+Stok : 41
+==================================================

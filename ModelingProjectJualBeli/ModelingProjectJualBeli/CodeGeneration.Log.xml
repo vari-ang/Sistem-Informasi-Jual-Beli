@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2018-08-21T07:27:36" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2018-08-21T07:27:37" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2018-08-21T07:27:37" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-08-21T07:27:37" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProjectJualBeliLib\ModelingProjectJualBeliLib.csproj" />
+  <Message Timestamp="2018-08-21T07:27:37" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-08-21T07:27:37" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-08-21T07:27:37" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2018-08-21T07:27:37" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2018-08-21T07:27:37" Importance="Medium" Text="ModelingProjectJualBeli's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'ModelingProjectJualBeli::Kategori' -  (Class), 'ModelingProjectJualBeli::Barang' -  (Class), 'ModelingProjectJualBeli::NotaBeliDetil' -  (Class), 'ModelingProjectJualBeli::Supplier' -  (Class), 'ModelingProjectJualBeli::Jabatan' -  (Class), 'ModelingProjectJualBeli::NotaJualDetil' -  (Class), 'ModelingProjectJualBeli::NotaBeli' -  (Class), 'ModelingProjectJualBeli::Pelanggan' -  (Class), 'ModelingProjectJualBeli::NotaJual' -  (Class), 'ModelingProjectJualBeli::Pegawai' -  (Class) " />
+  <Message Timestamp="2018-08-21T07:27:46" Importance="Medium" Text="'ModelingProjectJualBeli::Kategori' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\Kategori.cs" />
+  <Message Timestamp="2018-08-21T07:27:47" Importance="Medium" Text="'ModelingProjectJualBeli::Barang' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\Barang.cs" />
+  <Message Timestamp="2018-08-21T07:27:47" Importance="Medium" Text="'ModelingProjectJualBeli::NotaBeliDetil' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\NotaBeliDetil.cs" />
+  <Message Timestamp="2018-08-21T07:27:48" Importance="Medium" Text="'ModelingProjectJualBeli::Supplier' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\Supplier.cs" />
+  <Message Timestamp="2018-08-21T07:27:48" Importance="Medium" Text="'ModelingProjectJualBeli::Jabatan' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\Jabatan.cs" />
+  <Message Timestamp="2018-08-21T07:27:48" Importance="Medium" Text="'ModelingProjectJualBeli::NotaJualDetil' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\NotaJualDetil.cs" />
+  <Message Timestamp="2018-08-21T07:27:48" Importance="Medium" Text="'ModelingProjectJualBeli::NotaBeli' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\NotaBeli.cs" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Medium" Text="'ModelingProjectJualBeli::Pelanggan' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\Pelanggan.cs" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Medium" Text="'ModelingProjectJualBeli::NotaJual' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\NotaJual.cs" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Medium" Text="'ModelingProjectJualBeli::Pegawai' -  (Class) : success (file created) - C:\Users\a07\Downloads\ModelingProjectJualBeli\ModelingProjectJualBeliLib\GeneratedCode\Pegawai.cs" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProjectJualBeliLib\ModelingProjectJualBeliLib.csproj" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2018-08-21T07:27:49" Importance="Medium" Text="ModelingProjectJualBeli's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'ModelingProjectJualBeli::Kategori' -  (Class), 'ModelingProjectJualBeli::Barang' -  (Class), 'ModelingProjectJualBeli::NotaBeliDetil' -  (Class), 'ModelingProjectJualBeli::Supplier' -  (Class), 'ModelingProjectJualBeli::Jabatan' -  (Class), 'ModelingProjectJualBeli::NotaJualDetil' -  (Class), 'ModelingProjectJualBeli::NotaBeli' -  (Class), 'ModelingProjectJualBeli::Pelanggan' -  (Class), 'ModelingProjectJualBeli::NotaJual' -  (Class), 'ModelingProjectJualBeli::Pegawai' -  (Class) " />
+  <Message Timestamp="2018-08-21T07:27:50" Importance="Diagnostic" Text="'ModelingProjectJualBeli::Kategori' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:50" Importance="Diagnostic" Text="'ModelingProjectJualBeli::Barang' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:50" Importance="Diagnostic" Text="'ModelingProjectJualBeli::NotaBeliDetil' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:50" Importance="Diagnostic" Text="'ModelingProjectJualBeli::Supplier' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:50" Importance="Diagnostic" Text="'ModelingProjectJualBeli::Jabatan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:50" Importance="Diagnostic" Text="'ModelingProjectJualBeli::NotaJualDetil' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:50" Importance="Diagnostic" Text="'ModelingProjectJualBeli::NotaBeli' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:50" Importance="Diagnostic" Text="'ModelingProjectJualBeli::Pelanggan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::NotaJual' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::Pegawai' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="The selection included 10 elements which were not bound to a template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="Diagnostic" Text="'ModelingProjectJualBeli::' -  (Association): no bound template." />
+  <Message Timestamp="2018-08-21T07:27:51" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

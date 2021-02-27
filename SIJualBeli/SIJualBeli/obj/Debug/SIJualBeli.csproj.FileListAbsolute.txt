@@ -1,0 +1,29 @@
+C:\Vari\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.csprojResolveAssemblyReference.cache
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.csproj.GenerateResource.Cache
+C:\Vari\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Vari\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Vari\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\bin\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarKategoriBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPegawai.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarPelanggan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\PBD\SIJualBeli\SIJualBeli\obj\Debug\SIJualBeli.FormDaftarNotaJual.resources
